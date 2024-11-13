@@ -2039,3 +2039,28 @@ img.svg{
 	.lexal_tm_home_hero .overlay_texts .subtitle{font-size: 12px;}
 	.lexal_tm_pagination_wrap{flex-direction: column;}
 }	
+
+/*CUSTOM*/
+.whatsapp-bt{
+	display: flex;
+	align-items: center;
+	font-size: 16px;
+	position: fixed;
+	right: 40px;
+	bottom: 60px;
+	z-index: 999;
+	text-decoration: none;
+	background: #32D851;
+	color: #fff;
+	padding: 10px 20px;
+	border-radius: 12px;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	-ms-border-radius: 12px;
+	-o-border-radius: 12px;
+}
+.whatsapp-bt svg{
+	margin-right: 10px;
+	width: 24px;
+	height: 24px;
+}
